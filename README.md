@@ -1,9 +1,9 @@
 # tracker2roto
-Script copy values from tracker to roto node.
+Script copies values from tracker to roto.
 
 
 ### Instructions
-1 Select Tracker and Roto/Rotopaint nodes
+1 Select Tracker and Roto/Rotopaint
 
 [![scr1](Screenshots/1.png)]
 
